@@ -1,0 +1,11460 @@
+#include <iostream>
+
+int main(){
+int8_t memory[250] = {0}; 
+ int memoryptr = 50; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memoryptr++; 
+memory[memoryptr]--;
+ memory[memoryptr]--;
+ memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+}
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+std::cout << (char)memory[memoryptr]; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+std::cout << (char)memory[memoryptr]; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+std::cout << (char)memory[memoryptr]; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memory[memoryptr]++;
+ memoryptr--; 
+}
+}
+memory[memoryptr]++;
+ memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ }
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ memory[memoryptr]++;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ while (memory[memoryptr] != 0){
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]++;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+memory[memoryptr]--;
+ memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+while (memory[memoryptr] != 0){
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+memoryptr--; 
+}
+}
+memoryptr++; 
+memoryptr++; 
+memoryptr++; 
+}
+
+
+return 0;
+}
